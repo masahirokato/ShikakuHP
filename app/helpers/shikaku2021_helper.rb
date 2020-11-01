@@ -1,0 +1,2 @@
+module Shikaku2021Helper
+end
